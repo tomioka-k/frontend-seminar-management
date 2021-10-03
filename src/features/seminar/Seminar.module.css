@@ -1,0 +1,13 @@
+body {
+  background-color: #f8f8f8;
+}
+
+.seminarCard {
+  padding: 1rem 0 0;
+}
+
+.detailColumn {
+  padding-top: 1rem;
+  position: sticky;
+  top: 1rem;
+}
